@@ -1,0 +1,8 @@
+train: /home/wlsh/ssd/kaggle/yolov5-master/convertor/fold2/images/train2017
+val: /home/wlsh/ssd/kaggle/yolov5-master/convertor/fold2/images/val2017
+
+# number of classes
+nc: 1
+
+# class names
+names: ['wheat']
